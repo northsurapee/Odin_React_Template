@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Commands
 
-- `npm install` : to install all node_modules
+- `npm install` : (**Must** run after clone this template) to install all node_modules
 - `npm run dev` : to run web on local host
 - `npx prettier . --write` : to style all files
 - `npx prettier . --check` : Check if all files styled
